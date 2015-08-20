@@ -1,0 +1,27 @@
+{
+  "name": "gappium",
+  "version": "1.0.0",
+  "description": "appium gui built with electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbhbokka/gappium.git"
+  },
+  "keywords": [
+    "appium",
+    "gui",
+    "electron"
+  ],
+  "author": "Kiryl Yemelyanenka <kirill.em@me.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbhbokka/gappium/issues"
+  },
+  "homepage": "https://github.com/rbhbokka/gappium#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.4"
+  }
+}
